@@ -1,0 +1,14 @@
+<setup>
+    <filename>template</filename>
+    <filetag>.py</filetag>
+    <path>/usr/bin/Python2</path>
+    <imports>import os,import sys</imports>
+    <body>
+if __name__ == "__main__":
+    pass
+    </body>
+    <make_executable>yes</make_executable>
+    <run_command>python2</run_command>
+</setup>
+
+

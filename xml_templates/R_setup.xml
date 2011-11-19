@@ -1,0 +1,11 @@
+<setup>
+    <filename>template</filename>
+    <filetag>.R</filetag>
+    <path>/usr/bin/Rscript</path>
+    <imports></imports>
+    <body></body>
+    <make_executable>no</make_executable>
+    <run_command>Rscript --vanilla</run_command>
+</setup>
+
+

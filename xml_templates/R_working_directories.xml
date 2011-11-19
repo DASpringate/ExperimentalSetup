@@ -1,0 +1,11 @@
+<setup>
+    <filename>source_this</filename>
+    <filetag>.R</filetag>
+    <path>/usr/bin/Rscript</path>
+    <imports>library(reshape2),library(ggplot2)</imports>
+    <body></body>
+    <make_executable>yes</make_executable>
+    <run_command>python2</run_command>
+</setup>
+
+
